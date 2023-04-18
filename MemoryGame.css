@@ -1,0 +1,34 @@
+#game div {
+  border: 1px solid black;
+  width: 15%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+}
+
+#clock div {
+  border: 1px solid black;
+  width: 20%;
+  height: 300px;
+  margin: 10px;
+  font-size: 5rem;
+  position: relative;
+}
+
+#score div {
+  border: 1px solid black;
+  width: 20%;
+  height: 300px;
+  margin: 10px;
+  font-size: 5rem;
+  position: relative;
+}
+
+#highscore div {
+  border: 1px solid black;
+  width: 20%;
+  height: 300px;
+  margin: 10px;
+  font-size: 5rem;
+  position: relative;
+}
